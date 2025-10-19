@@ -1,5 +1,5 @@
-Name:       Ali Abbas Qazi
-Reg no:     24-CyS-050
-Department: BS Cyber Security (A)
-Course:     Artificial Intelligence
-Instructor: Mr. Mubashir Iqbal
+Name:       Ali Abbas Qazi <br />
+Reg no:     24-CyS-050 <br />
+Department: BS Cyber Security (A) <br />
+Course:     Artificial Intelligence <br />
+Instructor: Mr. Mubashir Iqbal <br />
